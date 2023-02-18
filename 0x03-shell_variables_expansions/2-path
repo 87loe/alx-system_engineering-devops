@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=$PATH:/action:/opt/bin:/opt/node/bin  /n
+PATH=$PATH:/action:/opt/bin:/opt/node/bin  
